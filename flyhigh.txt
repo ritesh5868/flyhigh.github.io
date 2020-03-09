@@ -1,0 +1,92 @@
+<html>
+<head><title>20 Motivational quotes by great people</title></head>
+   <style>
+      .headcolor{background-color:red;
+                 height:90px;
+                 width:100%;
+                }
+       body{margin:0;
+           padding:0;
+          }
+       .headline{color:white;
+                 font-size:60px;
+                 margin-left:70px;
+                 padding-top:10px;
+                }
+       .name{font-size:40px;
+             padding-left:300;
+            }
+       .photo{padding-left:300;
+              width:1000;
+              height:400;
+             } 
+   </style>
+   <body>
+       <div class="headcolor">
+           <p class="headline"><strong>Fly High</strong></p>
+       </div>
+       
+       <p style="font-size:70;margin-left:60px;"><strong>20 Inspirational Quotes by Famous People</strong></p>
+       
+       <p class="name"><1> Albert Einstein</p>
+       <img class="photo" src="albert.jpg"><br><br><br><br>
+
+       <p class="name"><2> Arnold Schwarzenegger</p>
+       <img class="photo" src="arnold.png"><br><br><br><br>
+
+       <p class="name"><3> Bill Gates</p>
+       <img class="photo" src="bill1.png"><br><br><br><br>
+
+       <p class="name"><4> Bruce Lee</p>
+       <img class="photo" src="bruce.jpg"><br><br><br><br>
+
+       <p class="name"><5> Charles Barkley</p>
+       <img class="photo" src="charles.jpg"><br><br><br><br>
+
+       <p class="name"><6> Henry Ford</p>
+       <img class="photo" src="henry.png"><br><br><br><br>
+
+       <p class="name"><7> Jackie Chan</p>
+       <img class="photo" src="jackie1.png"><br><br><br><br>
+
+       <p class="name"><8> James Dean</p>
+       <img class="photo" src="james1.jpg"><br><br><br><br>
+
+       <p class="name"><9> Micheal Jackson</p>
+       <img class="photo" src="micheal jackson.jpg"><br><br><br><br>
+
+       <p class="name"><10> Micheal Jorden</p>
+       <img class="photo" src="micheal.jpg"><br><br><br><br>
+
+       <p class="name"><11> Mahendra Singh Dhoni</p>
+       <img class="photo" src="ms dhoni.jpg"><br><br><br><br>
+
+       <p class="name"><12> Bill Gates</p>
+       <img class="photo" src="bill2.png"><br><br><br><br>
+
+       <p class="name"><13> Muhammad Ali</p>
+       <img class="photo" src="muhammad ali.jpg"><br><br><br><br>
+
+       <p class="name"><14> Nelson Mandela</p>
+       <img class="photo" src="nelson.jpg"><br><br><br><br>
+
+       <p class="name"><15> Barack Obama</p>
+       <img class="photo" src="obama.jpg"><br><br><br><br>
+
+       <p class="name"><16> Jackie Chan</p>
+       <img class="photo" src="jackie2.jpg"><br><br><br><br>
+
+       <p class="name"><17> Sachin Ramesh Tendulkar</p>
+       <img class="photo" src="sachin tendulkar.jpg"><br><br><br><br>
+
+       <p class="name"><18> Usian Bolt</p>
+       <img class="photo" src="usian bolt.jpg"><br><br><br><br>
+
+       <p class="name"><19> Tiger Wood</p>
+       <img class="photo" src="tiger wood.png"><br><br><br><br>
+
+        <p class="name"><20> Steve Jobs</p>
+       <img class="photo" src="steve.png"><br><br>
+ 
+   </body>
+</html>
